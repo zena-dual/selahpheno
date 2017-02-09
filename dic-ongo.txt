@@ -1,231 +1,228 @@
-arma,名詞,牙
-arma,動詞,牙を剥く
-ars,名詞,王
-arsa,名詞,王
-arsei,形容詞,王の
-be,助動詞,強意の助動詞
-besti,動詞,～である(一人称・二人称、英語のbe動詞)
-bekwist,接続詞,なので(順接、英語のbecause)
-bloo,動詞,咲く
-bluci,形容詞,暗い
-branous,名詞,雄々しさ
-branousi,形容詞,雄々しい
-celena,動詞,受け入れる
-ciel,名詞,彼方
-cirkus,名詞,心
-clar,名詞,約束
-clar,名詞,鍵
-cley,名詞,砂
-clue,形容詞,緋色の
-co,名詞,芽生え
-cooke,動詞,望む
-cori,形容詞,始まりの
-corne,名詞,火
-da,助動詞,される(受動態)
-deige,名詞,城
-denca,動詞,踊る
-denca,動詞,舞う
-dia,動詞,歩く
-dilna,動詞,広がる
-dime,動詞,笑う
-dimi,形容詞,黄昏の
-dis,副詞,～へ(smもquoも使えない場合)
-doremren,名詞,子
-dowa,動詞,降りる
-ect,動詞,踊る
-effectis,名詞,剣
-efflect,名詞,盾
-ele,動詞,存在する
-elma,名詞,全てのもの
-elmei,形容詞,全ての
-ende,副詞,～と(英語のand)
-endehec,形容詞,終わらない
-eposion,名詞,時間
-evo,動詞,～になる(英語のbecome)
-eza,名詞,灰
-eze,形容詞,灰の
-ezis,名詞,埃
-faite,名詞,賛歌
-fel,副詞,～から(起点、英語のfrom)
-fel,副詞,～の上に(起点、英語のover)
-feo,代名詞,関係代名詞(英語のwhich/who)
-fisa,動詞,嘲笑う
-fluse,名詞,儚さ
-fo,副詞,～のために(英語のfor)
-frei,形容詞,眩しい
-gfend,名詞,怖れ
-giri,名詞,畏敬
-giris,名詞,誇り
-girisi,形容詞,誇り高い
-glia,動詞,座る
-glim,動詞,紡ぐ
-glio,名詞,椅子
-goen,動詞,錆びつく
-gulie,形容詞,醜い
-haul,名詞,灯火
-hear,動詞,重ねる
-hepne,名詞,ゆりかご
-hid,名詞,上
-hio,代名詞,それを(三人称目的格)
-hir,代名詞,それ(三人称主格)
-hutia,動詞,運ぶ
-hyne,名詞,調べ
-hyte,名詞,敗者
-I,名詞,世界
-Ies,名詞,色
-ife,接続詞,もし～なら(仮定、英語のif)
-ifex,接続詞,たとえ～しようとも(譲歩仮定)
-ilis,名詞,希望
-ilmei,形容詞,大きな
-io,名詞,吐息
-isa,感動詞,さあ(呼びかけ)
-jes,冠詞,その(英語のthe)
-kaon,名詞,牢宮
-karla,名詞,血
-kamyu,名詞,記憶
-kei,名詞,雫
-kei,形容詞,雫の
-kele,形容詞,鋭い
-keof,名詞,優しさ
-keofi,形容詞,優しい
-kless,名詞,旋律
--l-,副詞,形容詞・名詞を接続する
-laspha,名詞,主
-lastis,名詞,敗者
-lears,代名詞,あなた(二人称主格)
-ledg,名詞,刃
-lef,副詞,～の(形容詞も使用可能、英語のof)
-leide,名詞,花
-lemenet,名詞,欠片
-leya,動詞,届く
-lipps,名詞,鑓
-lishe,形容詞,愛しい
-loar,名詞,風
-loo,代名詞,あなたを(二人称目的格)
-lom,代名詞,あなたの(二人称所有格)
-lor,代名詞,あなた(二人称主格)
-lostasia,動詞,忘れる
-lovi,名詞,美しさ
-lovier,形容詞,美しい
-maria,動詞,微笑む
-medolia,名詞,音色
-meh,形容詞,一つの
-mici,形容詞,永劫の
-mihas,名詞,絆
-mihhya,名詞,果て
-miqvy,名詞,今
-mofie,形容詞,悲劇の
-mofy,名詞,惨劇
-muzel,形容詞,眩しい
-muzel,形容詞,愛しい
-nazarie,名詞,愚かさ
-nazarie,形容詞,罪の
-neckt,副詞,否定(英語のnot)
-neen,形容詞,緑色の
-nehhe,名詞,名前
-nefla,形容詞,新しい
-neight,名詞,夜明け
-neighti,形容詞,夜明けの
-nen,名詞,砂
-nexe,動詞,嫌う
-noe,名詞,かつて
-O,助動詞,しなさい(命令)
-ole,名詞,彼方・夢
-ole,動詞,降りる
-olte,名詞,頂点
-omunis,名詞,万象
-ora,動詞,讃える(oratorの省略形)
-orator,動詞,讃える
-orb,名詞,誓い
-orb,名詞,約束
-orza,動詞,昇る
-ovan,形容詞,～だけ(英語のonly)
-paje,形容詞,慎ましい
-pedi,形容詞,深い
-peg,副詞,～と共に(英語のwith)
-pel,名詞,鐘
-pelma,動詞,贈る
-personie,形容詞,仮初めの
-phanisis,形容詞,自らの
-pridia,動詞,翳す
-qhaon,名詞,翼
-qhaon,動詞,羽ばたく
-quo,副詞,～へ(対象は人やものや方角、動作の主体が動かない、英語のtoもしくはfor)
-qusi,動詞,～である(三人称のみ、英語のbe動詞)
-ralphei,形容詞,銀色の
-raswel,名詞,森
-ravience,副詞,最上級表現の際に語の前に付属
-rawa,動詞,這う
-redi,形容詞,紅い
-reive,名詞,椅子
-riena,動詞,鳴る
-rigveshi,形容詞,魔性の
-ris,形容詞,いたましい
-roo,名詞,遠く
-sanc,動詞,彩る
-saria,動詞,届ける
-sart,名詞,帳
-seim,動詞,恋う
-shante,名詞,煌めき
-shaz名詞,紡ぎ
-she,助動詞,～でしょう・～しましょう(意思・運命、英語のwill)
-sheon,名詞,鐘
-sheza,名詞,羽
-sic,名詞,螺旋
-sinka,動詞,濡らす
-siole,形容詞,果てのない
-sis,動詞,辿る
-slin,動詞,立つ
-sm,副詞,～へ(対象は場所、動作の主体が動く、英語のtoもしくはfor)
-soana,動詞,響く
-solitie,形容詞,孤独な
-solituqs,副詞,孤独に
-sophit,名詞,想い
-sterei,形容詞,数多の
-stig,名詞,誓い
-symphoeki,形容詞,憫(いたわ)しい
-synda,動詞,誓う
-tania,動詞,語る
-teo,名詞,開放
-thes,名詞,道
-tis,動詞,着く
-tis,名詞,道
-tissin,動詞,伝える
-tissin,動詞,続く
-torn,形容詞,冷たい
-twai,動詞,誘う
-twispel,名詞,黄昏
-twispeli,形容詞,黄昏の
-uc,副詞,～によって(英語のby)
-univa,動詞,帰る
-vefa,動詞,覆う
-veiz,名詞,爪
-vequs,動詞,纏う
-vequs,動詞,縛る
-via,動詞,生まれる
-vilis,動詞,知る
-wavir,動詞,酔う
-wavir,動詞,揺らす
-wem,代名詞,あなたの(二人称所有格、尊敬の意を含む)
-wer,代名詞,あなた(二人称主格、尊敬の意を含む)
-wop,名詞,力
-writh,名詞,宴
-wue,動詞,慕う
-xaln,名詞,扉
-xelie,形容詞,星の
-xeo,名詞,夜
-xeoi,形容詞,夜の
-xin,名詞,未来・彼方
-xshao,副詞,倒置法を表す("A B" → "B xshao A" もしくは "xshao B A")
-years,代名詞,私(一人称主格)
-yehle,動詞,結ぶ
-yem,代名詞,私の(一人称所有格)
-yer,代名詞,私(一人称主格)
-ymy,名詞,口づけ
-zarabearc,動詞,泣く
-zarabel,名詞,涙
-zea,名詞,木
-zeon,名詞,筐
-zette,接続詞,だから(順接、英語のso)
-zorm,名詞,尊厳・礼節
-zorm,動詞,拝む
+arma	名詞	牙
+arma	動詞	牙を剥く,抗う
+ars	名詞	王
+arsa	名詞	王
+arsei	形容詞	王の
+be	助動詞	強意
+besti	動詞	～である	主語が一人称・二人称の場合．英語でいうbe動詞
+bekwist	接続詞	順接	「なので」など．英語でいうbecause
+bloo	動詞	咲く
+bluci	形容詞	暗い
+branous	名詞	雄々しさ
+branousi	形容詞	雄々しい
+celena	動詞	受け入れる
+ciel	名詞	彼方
+cirkus	名詞	心
+clar	名詞	約束
+clar	名詞	鍵
+cley	名詞	砂
+clue	形容詞	緋色の
+co	名詞	芽生え
+cooke	動詞	望む
+cori	形容詞	始まりの
+corne	名詞	火
+da	助動詞	受動	直後の動詞を受動態にする
+deige	名詞	城
+denca	動詞	踊る,舞う
+dia	動詞	歩く
+dilna	動詞	広がる
+dime	動詞	笑う
+dimi	形容詞	黄昏の
+dis	副詞	～へ	smもquoも使えない場合に用いる
+doremren	名詞	子
+dowa	動詞	降りる
+ect	動詞	踊る
+effectis	名詞	剣
+efflect	名詞	盾
+ele	動詞	存在する
+elma	名詞	全てのもの
+elmei	形容詞	全ての
+ende	副詞	～と	英語でいうand
+endehec	形容詞	終わらない
+eposion	名詞	時間
+evo	動詞	～になる	英語でいうbecome
+eza	名詞	灰
+eze	形容詞	灰の
+ezis	名詞	埃
+faite	名詞	賛歌
+fel	副詞	～から,～の上に	英語でいうfromまたはover
+feo	代名詞	関係代名詞	英語でいうwhichまたはwho
+fisa	動詞	嘲笑う
+fluse	名詞	儚さ
+fo	副詞	～のために	英語でいうfor
+frei	形容詞	眩しい
+gfend	名詞	怖れ
+giri	名詞	畏敬
+giris	名詞	誇り
+girisi	形容詞	誇り高い
+glia	動詞	座る
+glim	動詞	紡ぐ
+glio	名詞	椅子
+goen	動詞	錆びつく
+gulie	形容詞	醜い
+haul	名詞	灯火
+hear	動詞	重ねる
+hepne	名詞	ゆりかご
+hid	名詞	上
+hio	代名詞	それを	三人称目的格
+hir	代名詞	それ	三人称主格
+hutia	動詞	運ぶ
+hyne	名詞	調べ
+hyte	名詞	敗者
+I	名詞	世界
+Ies	名詞	色
+ife	接続詞	仮定	もし～なら．英語でいうif
+ifex	接続詞	譲歩仮定	たとえ～しようとも．英語でいうeven if
+ilis	名詞	希望
+ilmei	形容詞	大きな
+io	名詞	吐息
+isa	感動詞	呼びかけ	「さあ」など．
+jes	冠詞	その	英語でいうthe
+kaon	名詞	牢宮
+karla	名詞	血
+kamyu	名詞	記憶
+kei	名詞	雫
+kei	形容詞	雫の
+kele	形容詞	鋭い
+keof	名詞	優しさ
+keofi	形容詞	優しい
+kless	名詞	旋律
+-l-	副詞	形容詞または名詞の接続
+laspha	名詞	主
+lastis	名詞	敗者
+lears	代名詞	あなたは	二人称主格
+ledg	名詞	刃
+lef	副詞	～の	形容詞も使用可能．英語でいうof
+leide	名詞	花
+lemenet	名詞	欠片
+leya	動詞	届く
+lipps	名詞	鑓
+lishe	形容詞	愛しい
+loar	名詞	風
+loo	代名詞	あなたを	二人称目的格
+lom	代名詞	あなたの	二人称所有格
+lor	代名詞	あなた	二人称主格
+lostasia	動詞	忘れる
+lovi	名詞	美しさ
+lovier	形容詞	美しい
+maria	動詞	微笑む
+medolia	名詞	音色
+meh	形容詞	一つの
+mici	形容詞	永劫の
+mihas	名詞	絆
+mihhya	名詞	果て
+miqvy	名詞	今
+mofie	形容詞	悲劇の
+mofy	名詞	惨劇
+muzel	形容詞	眩しい
+muzel	形容詞	愛しい
+nazarie	名詞	愚かさ
+nazarie	形容詞	罪の
+neckt	副詞	否定	英語でいうnot
+neen	形容詞	緑色の
+nehhe	名詞	名前
+nefla	形容詞	新しい
+neight	名詞	夜明け
+neighti	形容詞	夜明けの
+nen	名詞	砂
+nexe	動詞	嫌う
+noe	名詞	かつて
+O	助動詞	命令	直後の動詞を命令形にする
+ole	名詞	彼方・夢
+ole	動詞	降りる
+olte	名詞	頂点
+omunis	名詞	万象
+ora	動詞	讃える	oratorの省略形？
+orator	動詞	讃える
+orb	名詞	誓い
+orb	名詞	約束
+orza	動詞	昇る
+ovan	形容詞	～だけ	英語でいうonly
+paje	形容詞	慎ましい
+pedi	形容詞	深い
+peg	副詞	～と	英語でいうwith
+pel	名詞	鐘
+pelma	動詞	贈る
+personie	形容詞	仮初めの
+phanisis	形容詞	自らの
+pridia	動詞	翳す
+qhaon	名詞	翼
+qhaon	動詞	羽ばたく
+quo	副詞	～へ	動作の主体が動かず，対象は人やものや方角である場合に用いる．英語でいうtoまたはfor
+qusi	動詞	～である	主語が三人称の場合．英語でいうbe動詞
+ralphei	形容詞	銀色の
+raswel	名詞	森
+ravience	副詞	最上級	直後の形容詞・副詞などを強調する
+rawa	動詞	這う
+redi	形容詞	紅い
+reive	名詞	椅子
+riena	動詞	鳴る
+rigveshi	形容詞	魔性の
+ris	形容詞	いたましい
+roo	名詞	遠く
+sanc	動詞	彩る
+saria	動詞	届ける
+sart	名詞	帳
+seim	動詞	恋う
+shante	名詞	煌めき
+shaz	名詞	紡ぎ
+she	助動詞	～でしょう・～しましょう	意思・運命．英語でいうwill
+sheon	名詞	鐘
+sheza	名詞	羽
+sic	名詞	螺旋
+sinka	動詞	濡らす
+siole	形容詞	果てのない
+sis	動詞	辿る
+slin	動詞	立つ
+sm	副詞	～へ	動作の主体が動き，対象は場所の場合．英語でいうtoまたはfor
+soana	動詞	響く
+solitie	形容詞	孤独な
+solituqs	副詞	孤独に
+sophit	名詞	想い
+sterei	形容詞	数多の
+stig	名詞	誓い
+symphoeki	形容詞	憫(いたわ)しい
+synda	動詞	誓う
+tania	動詞	語る
+teo	名詞	開放
+thes	名詞	道
+tis	動詞	着く
+tis	名詞	道
+tissin	動詞	伝える,続く
+torn	形容詞	冷たい
+twai	動詞	誘う
+twispel	名詞	黄昏
+twispeli	形容詞	黄昏の
+uc	副詞	～によって	英語でいうby
+univa	動詞	帰る
+vefa	動詞	覆う
+veiz	名詞	爪
+vequs	動詞	纏う
+vequs	動詞	縛る
+via	動詞	生まれる
+vilis	動詞	知る
+wavir	動詞	酔う
+wavir	動詞	揺らす
+wem	代名詞	あなたの	二人称所有格．尊敬の意を含む
+wer	代名詞	あなた	二人称主格．尊敬の意を含む
+wop	名詞	力
+writh	名詞	宴
+wue	動詞	慕う
+xaln	名詞	扉
+xelie	形容詞	星の
+xeo	名詞	夜
+xeoi	形容詞	夜の
+xin	名詞	未来・彼方
+xshao	副詞	倒置法を表す	「A B」->「B xshao A」または「xshao B A」
+years	代名詞	私	一人称主格
+yehle	動詞	結ぶ
+yem	代名詞	私の	一人称所有格
+yer	代名詞	私	一人称主格
+ymy	名詞	口づけ
+zarabearc	動詞	泣く
+zarabel	名詞	涙
+zea	名詞	木
+zeon	名詞	筐
+zette	接続詞	順接	英語でいうso
+zorm	名詞	尊厳・礼節
+zorm	動詞	拝む
