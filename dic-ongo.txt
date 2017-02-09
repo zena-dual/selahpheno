@@ -4,7 +4,7 @@ ars	名詞	王
 arsa	名詞	王
 arsei	形容詞	王の
 be	助動詞	強意
-besti	動詞	～である	主語が一人称・二人称の場合．英語でいうbe動詞
+besti	動詞	～である	主語が一人称・二人称の場合に用いる．英語でいうbe動詞
 bekwist	接続詞	順接	「なので」など．英語でいうbecause
 bloo	動詞	咲く
 bluci	形容詞	暗い
@@ -71,8 +71,8 @@ hyne	名詞	調べ
 hyte	名詞	敗者
 I	名詞	世界
 Ies	名詞	色
-ife	接続詞	仮定	もし～なら．英語でいうif
-ifex	接続詞	譲歩仮定	たとえ～しようとも．英語でいうeven if
+ife	接続詞	仮定	「もし～なら」．英語でいうif
+ifex	接続詞	譲歩仮定	「たとえ～しようとも」．英語でいうeven if
 ilis	名詞	希望
 ilmei	形容詞	大きな
 io	名詞	吐息
@@ -174,7 +174,7 @@ sinka	動詞	濡らす
 siole	形容詞	果てのない
 sis	動詞	辿る
 slin	動詞	立つ
-sm	副詞	～へ	動作の主体が動き，対象は場所の場合．英語でいうtoまたはfor
+sm	副詞	～へ	動作の主体が動き，対象は場所の場合に用いる．英語でいうtoまたはfor
 soana	動詞	響く
 solitie	形容詞	孤独な
 solituqs	副詞	孤独に

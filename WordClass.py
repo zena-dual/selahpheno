@@ -19,8 +19,8 @@ class Word:
     def getMeaning(self):
         return self.__meaning
 
+    def hasSupplement(self):
+        return not(self.__supplement == "")
+
     def getSupplement(self):
-        if self.__supplement == "":
-            return "この単語に対する補足はありません．"
-        else:
-            return self.__supplement
+        return self.__supplement

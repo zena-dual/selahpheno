@@ -1,22 +1,22 @@
 # coding: utf-8
 # http://www.antun.net/tips/api/twitter.html
 
-import WordClass
-import codecs
-import subprocess as sp
+import WordProcesser
 import twitter
 import Data
+import unicodedata
+
+def is_japanese(string):
+    for ch in string:
+        name = unicodedata.name(ch) 
+        if "CJK UNIFIED" in name \
+        or "HIRAGANA" in name \
+        or "KATAKANA" in name:
+            return True
+    return False
 
 if __name__ == "__main__":
-    words_list = []
-
-    lines = sp.check_output(["nkf","-w","dic-ongo.txt"]).decode("utf-8")
-    lines = lines.replace("\r","").split("\n")
-
-    for line in lines:
-        if line == "" or line == "\n":
-            continue
-        words_list.append(WordClass.Word(line))
+    wp = WordProcesser.WordProcesser()
 
     d = Data.Data()
     m_id = d.getMyId()
@@ -29,10 +29,16 @@ if __name__ == "__main__":
     t_userstream = twitter.TwitterStream(auth=auth,
                                          domain='userstream.twitter.com')
 
-    for msg in t_userstream.user():
-        print(type(msg))
-        if "in_reply_to_screen_name" in msg.keys():
-            if msg["in_reply_to_screen_name"] == __my_twitter_id:
-                reply = "@" + msg['user']['screen_name'] + " " + \
-                        "リプライに†感謝†"
-                t.statuses.update(status=reply)
+    for message in t_userstream.user():
+        if "in_reply_to_screen_name" in message.keys() and \
+           message["in_reply_to_screen_name"] == m_id:
+            message_text = message["text"].split(" ")
+
+            if is_japanese(message_text[1]):
+                reply = "@" + message['user']['screen_name'] + " " + \
+                        wp.returnSurface(message_text[1])
+            elif message_text[1].isalpha():
+                reply = "@" + message['user']['screen_name'] + " " + \
+                        wp.returnMeaning(message_text[1])
+                
+            t.statuses.update(status=reply)
