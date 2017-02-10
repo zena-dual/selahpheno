@@ -34,11 +34,25 @@ if __name__ == "__main__":
            message["in_reply_to_screen_name"] == m_id:
             message_text = message["text"].split(" ")
 
-            if is_japanese(message_text[1]):
-                reply = "@" + message['user']['screen_name'] + " " + \
-                        wp.returnSurface(message_text[1])
-            elif message_text[1].isalpha():
-                reply = "@" + message['user']['screen_name'] + " " + \
-                        wp.returnMeaning(message_text[1])
+            if message_text[0] == "@"+m_id:
+                if len(message_text) > 2 and \
+                   message_text[1] == "類義語":
+                    if is_japanese(message_text[2]):
+                        if wp.hasSurface(message_text[2]):
+                            reply = "@" + message['user']['screen_name'] + " " + \
+                                    wp.getSurface(message_text[2])
+                        else:
+                            reply = "@" + message['user']['screen_name'] + " " + \
+                                    wp.getSynonymSurface(message_text[2])
+                    elif message_text[2].isalpha():
+                        reply = "@" + message['user']['screen_name'] + " " + \
+                                wp.getSynonymMeaning(message_text[2])
+                else:
+                    if is_japanese(message_text[1]):
+                        reply = "@" + message['user']['screen_name'] + " " + \
+                                wp.getSurface(message_text[1])
+                    elif message_text[1].isalpha():
+                        reply = "@" + message['user']['screen_name'] + " " + \
+                                wp.getMeaning(message_text[1])
                 
-            t.statuses.update(status=reply)
+                t.statuses.update(status=reply)
