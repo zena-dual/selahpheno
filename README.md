@@ -6,8 +6,8 @@ Twitterの[@miqveqs_clue][]で稼働しますが，筆者がスクリプトを�
 #機能
 * [@miqveqs_clue][]にセラフェノの単語をreplyで送ると，その単語の日本語訳をreplyで返します．
 
-     @xxx: @miqveqs_clue neight  
-     @miqveqs_clue: @xxx “neight"の日本語訳として「夜明け」が存在し，その品詞は名詞です．
+`@xxx: @miqveqs_clue neight`  
+`@miqveqs_clue: @xxx “neight"の日本語訳として「夜明け」が存在し，その品詞は名詞です．`
 
 * [@miqveqs_clue][]に日本語の単語をreplyで送ると，その単語のセラフェノ訳をreplyで返します．
 * [@miqveqs_clue][]に「類義語 (セラフェノの単語)」という形式でreplyを送ると，その単語の日本語訳およびその訳の類義語をreplyで返します．
