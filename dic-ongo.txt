@@ -1,5 +1,6 @@
 arma	–¼Œ	‰å
-arma	“®Œ	‰å‚ğ”‚­,R‚¤
+arma	“®Œ	‰å‚ğ”‚­
+arma	“®Œ	R‚¤
 ars	–¼Œ	‰¤
 arsa	–¼Œ	‰¤
 arsei	Œ`—eŒ	‰¤‚Ì
@@ -23,7 +24,8 @@ cori	Œ`—eŒ	n‚Ü‚è‚Ì
 corne	–¼Œ	‰Î
 da	•“®Œ	ó“®	’¼Œã‚Ì“®Œ‚ğó“®‘Ô‚É‚·‚é
 deige	–¼Œ	é
-denca	“®Œ	—x‚é,•‘‚¤
+denca	“®Œ	—x‚é
+denca	“®Œ	•‘‚¤
 dia	“®Œ	•à‚­
 dilna	“®Œ	L‚ª‚é
 dime	“®Œ	Î‚¤
@@ -45,7 +47,8 @@ eza	–¼Œ	ŠD
 eze	Œ`—eŒ	ŠD‚Ì
 ezis	–¼Œ	šº
 faite	–¼Œ	^‰Ì
-fel	•›Œ	`‚©‚ç,`‚Ìã‚É	‰pŒê‚Å‚¢‚¤from‚Ü‚½‚Íover
+fel	•›Œ	`‚©‚ç	‰pŒê‚Å‚¢‚¤from
+fel	•›Œ	`‚Ìã‚É	‰pŒê‚Å‚¢‚¤over
 feo	‘ã–¼Œ	ŠÖŒW‘ã–¼Œ	‰pŒê‚Å‚¢‚¤which‚Ü‚½‚Íwho
 fisa	“®Œ	š}Î‚¤
 fluse	–¼Œ	™R‚³
@@ -188,7 +191,8 @@ teo	–¼Œ	ŠJ•ú
 thes	–¼Œ	“¹
 tis	“®Œ	’…‚­
 tis	–¼Œ	“¹
-tissin	“®Œ	“`‚¦‚é,‘±‚­
+tissin	“®Œ	“`‚¦‚é
+tissin	“®Œ	‘±‚­
 torn	Œ`—eŒ	—â‚½‚¢
 twai	“®Œ	—U‚¤
 twispel	–¼Œ	‰©¨

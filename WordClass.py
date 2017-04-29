@@ -4,7 +4,7 @@ class Word:
 
         self.__surface = elements[0]
         self.__POS     = elements[1]
-        self.__meaning = elements[2].split(",")
+        self.__meaning = elements[2]
         if len(elements) > 3:
             self.__supplement = elements[3]
         else:

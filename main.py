@@ -5,6 +5,7 @@ import WordProcesser
 import twitter
 import Data
 import unicodedata
+from datetime import datetime
 
 def is_japanese(string):
     for ch in string:
@@ -28,6 +29,14 @@ if __name__ == "__main__":
     t = twitter.Twitter(auth=auth)
     t_userstream = twitter.TwitterStream(auth=auth,
                                          domain='userstream.twitter.com')
+
+    now = datetime.now()
+    start_message = "ミクヴァの緋眼が起動されました．(" + \
+                    str(now.year) + "/" + \
+                    str(now.month) + "/" + \
+                    str(now.day) + "/" + \
+                    str(now.hour) + ":" + str(now.minute) + ")"
+    t.statuses.update(status=start_message)
 
     for message in t_userstream.user():
         if "in_reply_to_screen_name" in message.keys() and \

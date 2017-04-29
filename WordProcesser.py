@@ -6,12 +6,26 @@ import random
 class WordProcesser:
     def __init__(self):
         self.words_list = []
+        
         lines = sp.check_output(["nkf","-w","dic-ongo.txt"]).decode("utf-8")
         lines = lines.replace("\r","").split("\n")
         for line in lines:
             if line == "" or line == "\n":
                 continue
             self.words_list.append(WordClass.Word(line))
+
+        lines = sp.check_output(["nkf","-w","dic-shingon.txt"]).decode("utf-8")
+        lines = lines.replace("\r","").split("\n")
+        for line in lines:
+            if line == "" or line == "\n":
+                continue
+
+            word = WordClass.Word(line)
+            if word.getSurface() in self.getSurfaceDict().keys():
+                if not(word.getMeaning() in self.getMeaningDict().keys()):
+                    self.words_list.append(word)
+            else:
+                self.words_list.append(word)
 
     def getSurfaceDict(self):
         surfaces = {}
@@ -22,9 +36,7 @@ class WordProcesser:
     def getMeaningDict(self):
         meanings = {}
         for word in self.words_list:
-            meaning_list = word.getMeaning()
-            for meaning in meaning_list:
-                meanings[meaning] = word
+            meanings[word.getMeaning()] = word
         return meanings
 
     def getMeaning(self, word_surface):
@@ -68,7 +80,7 @@ class WordProcesser:
         return_message = "「"+word_meaning+"」"
         if word_meaning in self.getMeaningDict().keys():
             for word in self.words_list:
-                if word_meaning in word.getMeaning():
+                if word_meaning == word.getMeaning():
                     if flg:
                         return_message += "のセラフェノ訳として\""
                         return_message += word.getSurface()
